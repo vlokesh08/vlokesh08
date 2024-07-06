@@ -28,8 +28,6 @@ const venkataLokesh = {
 
 ![VisitorCount](https://profile-counter.glitch.me/{vlokesh08}/count.svg) </div>
 
-# ⭐ Stats 
-<div align="center">
 
 ## Contribute ##
 All the developed Apps/Products are completely Free to use. You can contribute if you want :)<br><br>
