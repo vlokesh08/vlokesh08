@@ -1,33 +1,28 @@
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
+![Hello, my name is Lokesh  Nice to meet you](https://github.com/vlokesh08/vlokesh08/assets/76467286/c255b659-ede3-40e5-b764-171e26379e15)
 
-# 💫 About Me:
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Lokesh;+An+Tech+Enthusiast+🔆;Loves+To+Build+Projects+🛠️;A+Problem+Solver+🕵;">
-</p>
-🔭 Working on exciting MERN stack projects.<br></br>
-🌱 Learning Next.js and integrating it into my projects.<br></br>
-💬 Always eager to connect and collaborate on open source projects.<br></br>
-🤝 Passionate about contributing to projects and learning from the community.<br></br>
+# A Little more about me
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/lok.esh.37819959/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/v_lokesh08/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkata-lokesh-7327b8210/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vlokesh204) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCoUejyCEOROhbkhNgSW5UPg)
-<div align="center" width=100%>
+```javascript
+const venkataLokesh = {
+    about: {
+        name: "Venkata Lokesh P",
+        email: "venkatalokeshvl@gmail.com",
+    },
+    skills: [
+        "C++", "C", "Java", "Python", "Machine Learning", "JavaScript",
+        "NodeJS", "React", "ExpressJS", "MongoDB", "MySQL", "Git"
+    ],
+    links: {
+        github: "@vlokesh08",
+        linkedin: "in/vlokesh08",
+        portfolio: "www.venkatalokesh.me",
+        
+    }
+};
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/vlokesh08?theme=nord&animation=true&font=Roboto%20Mono)]
-</div>
+```
 
-
-
-
-# 📊 GitHub Stats:
-<div align="center" width=100%>
-
-<!-- ![](https://github-readme-stats.vercel.app/api?username=vlokesh08&theme=prussian&hide_border=true&include_all_commits=true&count_private=false)<br/> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=vlokesh08&theme=prussian&hide_border=true)<br/>
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vlokesh08&theme=prussian&hide_border=true&include_all_commits=true&count_private=false&layout=compact) -->
-
-</div>
 
 **Visitors Count** 
 
@@ -35,10 +30,6 @@
 
 # ⭐ Stats 
 <div align="center">
-
-
-![GitHub Snake dark](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-</div>
 
 ## Contribute ##
 All the developed Apps/Products are completely Free to use. You can contribute if you want :)<br><br>
